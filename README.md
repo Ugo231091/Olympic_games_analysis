@@ -13,5 +13,5 @@ The main task is still to show historical performance for different countries, w
 ## Dashboard
 
 <p align="center">
-  <img src="PowerBI/Dashboard.png"/>
+  <img src="pictures/Dashboard.png"/>
 </p>
